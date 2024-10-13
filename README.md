@@ -1,0 +1,2 @@
+# stock-mgr
+1
